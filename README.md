@@ -6,7 +6,7 @@
   <a href="https://twitter.com/alimddar" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alimddar" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/alimdar-musayev-b5635b259" target="blank">
+  <a href="https://www.linkedin.com/in/alimdar/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alimdar-musayev" height="30" width="40" />
   </a>
   <a href="https://instagram.com/alimddar" target="blank">
