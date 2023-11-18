@@ -44,6 +44,8 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
     <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/SQLModel-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Sqlmodel">
+    <img src="https://img.shields.io/badge/SQLAlchemy-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Sqlalchemy">
 </p>
 
 <div align="center">
