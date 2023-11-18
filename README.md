@@ -1,35 +1,33 @@
 <h1 align="center">Hi there 👋, I'm Alimdar</h1>
 <h2 align="center">Backend Developer | FastAPI, Django, NestJS Expert</h2>
 
-- 🌱 I’m currently learning **NestJs**
-
-- 💬 Ask me about **FastApi, Django**
-
-- 📫 How to reach me **alimdarrmusayev9879@gmail.com**
-
 <p align="center">
-    <a href="https://twitter.com/alimddar" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alimddar" height="30" width="40" />
-    </a>
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/alimdar-musayev-b5635b259/" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alimdar-musayev-b5635b259/" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/alimddar" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alimddar" height="30" width="40" />
-    </a>
-    <a href="https://www.twitch.tv/alimdare" target="blank">
-      <img align="center" src="https://freelogopng.com/images/all_img/1656152094twitch-icon-png.png" alt="alimdare" height="30" width="40" />
-    </a>
+  <a href="https://twitter.com/alimddar" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alimddar" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/alimdar-musayev-b5635b259" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alimdar-musayev" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/alimddar" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alimddar" height="30" width="40" />
+  </a>
+  <a href="https://www.twitch.tv/alimdare" target="blank">
+    <img src="https://freelogopng.com/images/all_img/1656152094twitch-icon-png.png" alt="alimdare" height="30" width="40" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alimddar&label=Profile%20views&color=0e75b6&style=flat" alt="alimddar" />
+  <img src="https://visitcount.itsvg.in/api?id=alimddar&label=Profile%20Views&color=0e75b6&style=flat&theme=dark" alt="alimddar" />
 </p>
 
 <p align="left">
   <strong>About Me:</strong><br>
-  I am a passionate backend developer from Azerbaijan, specializing in creating efficient and scalable web applications using FastAPI, Django, and NestJS. With a keen interest in learning new technologies and a love for chess, I blend analytical thinking and creativity in everything I do. I'm always up for a challenge and enjoy collaborating on innovative projects.
+  I am a passionate backend developer from Azerbaijan, specializing in creating efficient and scalable web applications using FastAPI, Django, and NestJS. I have a keen interest in learning new technologies and love playing chess. Always up for a challenge and enjoy collaborating on innovative projects.
 </p>
+
+- 🌱 I’m currently learning **NestJs**
+- 💬 Ask me about **FastApi, Django**
+- 📫 How to reach me: **alimdarrmusayev9879@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -83,8 +81,8 @@
     </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alimddar&show_icons=true&locale=en&layout=compact" alt="alimddar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alimddar&show_icons=true&locale=en" alt="alimddar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alimddar&" alt="alimddar" /></p>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alimddar&show_icons=true&locale=en&layout=compact&theme=dark" alt="alimddar" />
+    <img src="https://github-readme-stats.vercel.app/api?username=alimddar&show_icons=true&locale=en&theme=dark" alt="alimddar" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alimddar&theme=dark" alt="alimddar" />
+</div>
