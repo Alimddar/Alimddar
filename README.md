@@ -11,6 +11,9 @@
   <a href="https://instagram.com/alimddar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alimddar" height="30" width="40" />
   </a>
+  <a href="https://www.twitch.tv/alimdare" target="blank">
+    <img align="center" src="https://static-00.iconduck.com/assets.00/twitch-icon-2048x2048-tipdihgh.png" alt="YOUR_TWITCH_USERNAME" height="30" width="40" />
+  </a>
 </p>
 
 <p align="center">
@@ -74,4 +77,8 @@
     </a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alimddar&show_icons=true&locale=en&layout=compact" alt="alimddar" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alimddar&show_icons=true&locale=en" alt="alimddar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alimddar&" alt="alimddar" /></p>
