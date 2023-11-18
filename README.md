@@ -1,6 +1,12 @@
 <h1 align="center">Hi there 👋, I'm Alimdar</h1>
 <h2 align="center">Backend Developer | FastAPI, Django, NestJS Expert</h2>
 
+- 🌱 I’m currently learning **NestJs**
+
+- 💬 Ask me about **FastApi, Django**
+
+- 📫 How to reach me **alimdarrmusayev9879@gmail.com**
+
 <p align="center">
     <a href="https://twitter.com/alimddar" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alimddar" height="30" width="40" />
