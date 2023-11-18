@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=alimddar&label=Profile%20Views&color=0e75b6&style=flat&theme=dark" alt="alimddar" />
+    <img src="https://visitcount.itsvg.in/api?id=alimddar&label=Profile%20Views&color=00FFFF&style=flat&theme=dark" alt="alimddar" />
 </p>
 
 <p align="left">
