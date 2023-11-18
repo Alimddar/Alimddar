@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Alimdar</h1>
 <h2 align="center">Backend Developer | FastAPI, Django, NestJS Expert</h2>
 
+<h3 align="center">🌐 Socials:</h3>
 <p align="center">
   <a href="https://twitter.com/alimddar" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alimddar" height="30" width="40" />
@@ -11,28 +12,25 @@
   <a href="https://instagram.com/alimddar" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alimddar" height="30" width="40" />
   </a>
-  <a href="https://www.twitch.tv/alimdare" target="blank">
-    <img src="https://freelogopng.com/images/all_img/1656152094twitch-icon-png.png" alt="alimdare" height="30" width="40" />
-  </a>
 </p>
 
 <p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=alimddar&label=Profile%20Views&color=00FFFF&style=flat&theme=dark" alt="alimddar" />
+    <img src="https://visitcount.itsvg.in/api?id=alimddar&label=Profile%20Views&color=#B1B7D1&style=flat&theme=dark" alt="alimddar" />
 </p>
 
+<h3 align="left">💫 About Me:</h3>
 <p align="left">
-  <strong>About Me:</strong><br>
   I am a passionate backend developer from Azerbaijan, specializing in creating efficient and scalable web applications using FastAPI, Django, and NestJS. I have a keen interest in learning new technologies and love playing chess. Always up for a challenge and enjoy collaborating on innovative projects.
 </p>
 
 - 🌱 I’m currently learning **NestJs**
 - 💬 Ask me about **FastApi, Django**
 - 📫 How to reach me: **alimdarrmusayev9879@gmail.com**
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+        Bash
     </a> 
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
@@ -82,7 +80,7 @@
 </p>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alimddar&show_icons=true&locale=en&layout=compact&theme=dark" alt="alimddar" />
-    <img src="https://github-readme-stats.vercel.app/api?username=alimddar&show_icons=true&locale=en&theme=dark" alt="alimddar" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alimddar&theme=dark" alt="alimddar" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alimddar&show_icons=true&locale=en&layout=compact&theme=dark" alt="alimddar" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=alimddar&show_icons=true&locale=en&theme=dark" alt="alimddar" height="165" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alimddar&theme=dark" alt="alimddar" height="165" />
 </div>
