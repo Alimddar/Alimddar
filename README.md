@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Alimdar</h1>
-<h2 align="center">Backend Developer | FastAPI, Django, NestJS Expert</h2>
+<h2 align="center">Backend Developer | FastAPI, Django, NestJS </h2>
 
 <h3 align="center">🌐 Socials:</h3>
 <p align="center">
