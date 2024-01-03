@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Alimdar</h1>
-<h2 align="center">Backend Developer | FastAPI, Django, NestJS </h2>
+<h2 align="center">Backend Developer | FastAPI , NestJS </h2>
 
 <h3 align="center">🌐 Socials:</h3>
 <p align="center">
@@ -20,11 +20,11 @@
 
 <h3 align="left">💫 About Me:</h3>
 <p align="left">
-  I am a passionate backend developer from Azerbaijan, specializing in creating efficient and scalable web applications using FastAPI, Django, and NestJS. I have a keen interest in learning new technologies and love playing chess. Always up for a challenge and enjoy collaborating on innovative projects.
+  I am a passionate backend developer from Azerbaijan, specializing in creating efficient and scalable web applications using FastAPI and NestJS. I have a keen interest in learning new technologies and love playing chess. Always up for a challenge and enjoy collaborating on innovative projects.
 </p>
 
 - 🌱 I’m currently learning **NestJs**
-- 💬 Ask me about **FastApi, Django**
+- 💬 Ask me about **FastApi**
 - 📫 How to reach me: **alimdarrmusayev9879@gmail.com**
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -34,7 +34,6 @@
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
     <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
     <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-    <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
     <img src="https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
     <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
     <img src="https://img.shields.io/badge/Bash-4EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
