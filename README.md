@@ -3,3 +3,5 @@
 
 - 🌱 I’m currently learning **Node.js, Express**
 - 💬 Ask me about **Algorithms, Javascript**
+
+Express. js, Django, Spring Boot, Ruby on Rails, ASP.NET Core, Laravel, Flask, NestJS, Koa.
