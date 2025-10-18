@@ -2,29 +2,19 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F8FFF&center=true&vCenter=true&width=600&lines=Backend+Developer;Cybersecurity+Enthusiast;Competitive+Programmer;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F8FFF&center=true&vCenter=true&width=600&lines=Backend+Developer;Cybersecurity+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
 
 </div>
 
 ## 🚀 About Me
 
-```javascript
-const alimdar = {
-    location: "Baku, Azerbaijan",
-    education: "Information Security @ Azerbaijan Technical University",
-    currentFocus: ["Backend Development", "API Design", "Cybersecurity"],
-    learning: ["System Design", "Cloud Architecture", "Advanced Security"],
-    interests: ["Competitive Programming", "CTF Competitions", "Open Source"],
-    funFact: "I debug code faster than I debug my life decisions 🐛"
-};
-```
+Backend developer and cybersecurity enthusiast studying Information Security at Azerbaijan Technical University. I build scalable systems and secure APIs while exploring the intersection of performance and security.
 
-- 🎯 Two-time **National Olympiad in Informatics Finalist** (2023 & 2024)
-- 🥇 **1st Place** at KiberUlduz National CTF League 2023
-- 🏆 **IDDA Cup Programming Competition Finalist** 2024
-- 💻 Building scalable backend systems and secure APIs
-- 🔐 Passionate about cybersecurity and ethical hacking
-- 📫 Reach me: **alimdarrm@gmail.com**
+**Current Focus:** Backend architecture, API design, system security  
+**Learning:** Distributed systems, cloud infrastructure, advanced security patterns  
+**Interests:** Hackathons, open source contribution, building tools that solve real problems
+
+📫 **Contact:** alimdarrm@gmail.com
 
 ---
 
@@ -110,14 +100,19 @@ const alimdar = {
 
 ---
 
-## 🎯 Competitive Programming
+## 🏆 Achievements & Recognition
 
-```
-🥇 National Olympiad in Informatics Finalist (2023, 2024)
-🥇 KiberUlduz CTF League - 1st Place (2023)
-🥈 IDDA Cup Programming Competition - Finalist (2024)
-🥈 Scientists of Tomorrow - Finalist (2023, 2025)
-```
+**National Olympiad in Informatics** - Finalist (2023, 2024)  
+Competed at the highest level in Azerbaijan's premier programming competition
+
+**KiberUlduz National CTF League** - 1st Place (2023)  
+Ranked first among youth participants in national cybersecurity competition
+
+**IDDA Cup Programming Competition** - Finalist (2024)  
+Advanced to finals competing against high school and university students
+
+**Scientists of Tomorrow** - Finalist (2023, 2025)  
+Demonstrated research and project development capabilities at national level
 
 ---
 
@@ -146,11 +141,3 @@ const alimdar = {
 </div>
 
 ---
-
-<div align="center">
-
-### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-⭐️ From [Alimdar](https://github.com/Alimdar)
-
-</div>
