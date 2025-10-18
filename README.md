@@ -60,18 +60,6 @@ Backend developer and cybersecurity enthusiast studying Information Security at 
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![Trophy](https://github-profile-trophy.vercel.app/?username=Alimdar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
-
----
-
 ## 🔥 Featured Projects
 
 ### [DevJourney](https://github.com/Alimdar/DevJourney) 
@@ -87,16 +75,6 @@ Backend developer and cybersecurity enthusiast studying Information Security at 
 - ⚡ FastAPI backend with async request handling
 - 🎨 React.js frontend with modern UI/UX
 - 📍 Location-based smart suggestions
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Alimdar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alimdar&theme=tokyo-night&hide_border=true)](https://github.com/Alimdar)
-
-</div>
 
 ---
 
